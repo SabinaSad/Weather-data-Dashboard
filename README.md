@@ -25,7 +25,7 @@ Yearly count of wind speed
 
 Quarterly count of pressure changes
 
-Count of Dry Bulb
+Count of Dry Bulb Temperature by Day
 
 These charts provide insights into weather patterns over time, allowing you to better understand climate trends.
 
